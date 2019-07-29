@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: resume
+layout: cv
 ---
 # Angela Flores
 Long Beach, CA | (562)754-3417 |Angela.Flores@student.csulb.edu
