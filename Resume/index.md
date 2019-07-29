@@ -1,5 +1,5 @@
 ---
-title: Angela Flores's Resume
+title: Resume
 layout: resume
 ---
 # Angela Flores
