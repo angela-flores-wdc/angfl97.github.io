@@ -22,8 +22,8 @@ B.S. in Computer Science
 
 ## Technical Skills
 
-Strong: Java, Python, github
-Intermediate: C++, HTML, SQL, C#
+Strong: Java, Python, Object-oriented programming, Source control with Git
+Intermediate: C++, HTML, SQL, C#, React Native, AngularJS, GraphQL, Secure encryption, Database creation and organization, Front-end development, Application life-cycle development, Agile software development
 
 ## Work Experience
 
