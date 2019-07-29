@@ -1,5 +1,6 @@
 ---
 title: Resume
+alt_title: 
 layout: cv
 ---
 # Angela Flores
