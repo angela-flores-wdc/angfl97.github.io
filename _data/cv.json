@@ -1,0 +1,90 @@
+{"basics": {
+  "picture": "",
+  "email": "Angela.Flores@student.csulb.edu",
+  "phone": "(562) 754-3417",
+  "summary": "My Summary"
+  }
+},
+"education": [{
+  "institution": "California State University Long Beach",
+  "area": "Computer Science",
+  "studyType": "Bachelor",
+  "startDate": "2015-08-01",
+  "endDate": "2019-12-01",
+  "gpa": "3.3",
+  "courses": [
+    "Database Design",
+    "Object Oriented Programming & Data Structures",
+    "Discrete Structure & Computing Applications",
+    "Theory of Computation",
+    "Data Structure & Algorithms",
+    "Software Development",
+    "Networks & Distributed Computing",
+    "Software Frameworks"
+  ]
+},
+{
+  "area": "Cyber Security Applications",
+  "studyType": "Minor",
+  "courses": [
+    "Computer Forensics",
+    "Intro to Cyber Security Principles"
+  ]
+}
+],
+"work": [{
+  "company": "Lawrence Livermore National Laboratory",
+  "position": "Summer Computing Intern",
+  "website": "https://www.llnl.gov/",
+  "startDate": "2013-06-03",
+  "endDate": "current",
+  "summary": "I help make LLNL open source more open",
+  "highlights": [
+    "Implement front end improvements to the laboratory [open source website](https://software.llnl.gov) using CSS, HTML, and AngularJS to make the site more responsive and interactive",
+    "Develop Python scripts to interact with GitHub’s REST and GraphQL APIs in order to automate the administration of the LLNL GitHub organization and its repositories",
+    "Expand the LLNL GitHub Pages Jekyll remote theme to create styling templates that can be painlessly implemented across a variety of laboratory websites"
+  ]
+},
+{
+  "company": "California State University Long Beach",
+  "position": "EXCEL Peer Mentor",
+  "website": "https://web.csulb.edu/programs/hsi-stem/students/stem-excel-mentor-tutor-opportunity/",
+  "startDate": "2018-04-01",
+  "endDate": "2019-06-01",
+  "summary": "Mentored Freshmen",
+  "highlights": [
+    "Tutored students in coursework related to algorithm efficiency, data structures, and other core CS concepts in Python, Java, and C++",
+    "Assisted in leading class discussions and preparing and delivering lessons for an introductory engineering course",
+    "Met one-on-one with assigned freshman on a regular basis to assess their progress in the semester and provided academic and lifestyle support"
+  ]
+}
+],
+"awards": [{
+  "title": "Award",
+  "date": "2014-11-01",
+  "awarder": "Company",
+  "summary": "There is no spoon."
+}],
+"skills": [{
+  "name": "Web Development",
+  "level": "Master",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ]
+}],
+"languages": [{
+  "language": "English",
+  "fluency": "Native speaker"
+}],
+"interests": [{
+  "name": "Wildlife",
+  "keywords": [
+    "Ferrets",
+    "Unicorns"
+  ]
+}],
+
+}
+}
